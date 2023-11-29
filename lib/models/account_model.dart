@@ -1,5 +1,5 @@
 import 'package:hive/hive.dart';
-part 'account_model.g.dart'; // File generated code Hive
+part 'account_model.g.dart'; // File generated code Hivee
 
 @HiveType(typeId: 0)
 class AccountModel extends HiveObject {
